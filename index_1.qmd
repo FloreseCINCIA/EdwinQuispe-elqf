@@ -1,0 +1,37 @@
+---
+title: "Edwin Quispe"
+image: Foto_Personal.jpg
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/edwin-luis-quispe-flores-985659205/
+    - icon: github
+      text: Github
+      href: https://github.com
+---
+
+<div class="text-right">
+
+### About me
+
+Dedicated researcher passionate about leveraging Machine Learning and Deep Learning techniques to assess ecological impacts stemming from human activities within the Amazon region. Committed to the preservation of this invaluable ecosystem, I strive to utilize artificial intelligence as a powerful tool to contribute meaningfully to its conservation efforts.
+
+### **Education**
+
+**Msc - San Antonio Abad National of Cusco** \| 2024 - present**\
+**Informatics \| Cusco - Peru
+
+**Msc - San Antonio Abad National of Cusco** \| 2022 - 2023**\
+**Climate change \| Cusco - Peru
+
+**Engineer - National Agrarian University of the Jungle** \| 2015 - 2021\
+Environmental & Forest \| Tingo Maria - Peru
+
+### **Work**
+
+**Centro de Innovación Científica Amazónica (CINCIA)** \| Puerto Maldonado, Peru\
+Specialist \| 2021 - present
+
+</div>

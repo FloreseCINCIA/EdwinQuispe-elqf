@@ -1,0 +1,16 @@
+---
+title: "Topographic changes by gold mining activity in Huepetuhe, Madre de Dios - Peru"
+author: "Edwin Quispe"
+date: "2025-03-08"
+categories: [news]
+---
+
+It is not another planet in the solar system, it is the earth.
+
+![](images/hp_map.jpg)
+
+The relentless advance of gold mining in the Peruvian Amazon has left a profound mark on the landscape. This striking topographic model showcases the dramatic transformations caused by mining activity in Huepetuhe, a historically significant mining area in Madre de Dios.
+
+What once was dense rainforest has been reshaped into a terrain of deep pits, artificial hills, and barren expanses, revealing the immense environmental toll of extractive activities. The vivid colors in the digital elevation model highlight the drastic changes in elevation, providing a stark visual contrast between untouched areas and heavily degraded mining zones.
+
+This image serves as a powerful reminder of the urgent need for sustainable resource management and ecological restoration efforts in one of the most biodiverse regions on Earth.

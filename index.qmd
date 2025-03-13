@@ -1,0 +1,14 @@
+---
+title: "Edwin Quispe"
+image: Foto_Personal.jpg
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/edwin-luis-quispe-flores-985659205/
+
+---
+Remote sensing and artificial intelligente researcher
+---
+Remote sensing to understand, protect, and manage the Earth's changing landscapes

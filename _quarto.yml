@@ -1,0 +1,26 @@
+project:
+  type: website
+  output-dir: "docs"
+website:
+  title: "Edwin Quispe"
+  navbar:
+    left: 
+      - text: "Home"
+        file: index.qmd
+      - text: "About"
+        file: index_1.qmd
+      - text: "Publications"
+        file: Activities.qmd
+      - text: "Talking maps"
+        file: Portafolio.qmd
+      - text: "Curriculum"
+        file: cv.qmd
+
+        
+format:
+  html:
+    theme: cyborg
+    css: styles.css
+
+editor: visual
+
